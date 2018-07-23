@@ -34,6 +34,9 @@ chmod u+x .bash_profile
 source .bash_profile
 ```
 5. Exit the shell and log back in to see the changes take affect 
+6. If you kept the default `.bashrc` provided, you should have the following prompt
+
+<img src="./assets/prompt.png" alt="PS1" width="70%"/>
 
 ### References
 - Bash profile vs bashrc
