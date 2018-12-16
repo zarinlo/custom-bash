@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#get the aliases and functions
+# source the run-control file if it exists
 if [ -f ~/.bashrc ]; then 
-	. ~ ~/.bashrc
+	source ~/.bashrc
 fi
